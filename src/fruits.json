@@ -1,0 +1,22 @@
+[
+    {
+        "src" : "/fruits/apple.svg",
+        "method": false
+    },
+    {
+        "src" : "/fruits/avocado.svg",
+        "method": false
+    },
+    {
+        "src" : "/fruits/cherry.svg",
+        "method": false
+    },
+    {
+        "src" : "/fruits/grape.svg",
+        "method": false
+    },
+    {
+        "src" : "/fruits/pineapple.svg",
+        "method": false
+    }
+]
